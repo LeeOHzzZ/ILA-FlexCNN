@@ -1,0 +1,3 @@
+[submodule "FlexCNN"]
+	path = FlexCNN
+	url = https://github.com/UCLA-VAST/FlexCNN.git
